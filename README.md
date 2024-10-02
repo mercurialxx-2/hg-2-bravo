@@ -7,11 +7,11 @@
 - [ ] Echo
 
 # Tecnología
-- [ ] HTML 
+- [X] HTML 
 - [X] Json 
-- [ ] Archivo plano (.txt) 
+- [X] Archivo plano (.txt) 
 - [ ] Javascript 
-- [ ] Markdown / .md
+- [X] Markdown / .md
 
 # Seleccione el tipo de actividad
 - [ ] Feature
